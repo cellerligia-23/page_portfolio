@@ -242,7 +242,8 @@ li{
 
   .list-professional-experience,
   .list-portfolio,
-  .list-education {
+  .list-education,
+  .list-personal-skill {
     display: grid;
     grid-template-columns: auto auto auto;
   }
